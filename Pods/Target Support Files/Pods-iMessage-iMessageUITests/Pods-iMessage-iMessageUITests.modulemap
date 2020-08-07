@@ -1,0 +1,6 @@
+framework module Pods_iMessage_iMessageUITests {
+  umbrella header "Pods-iMessage-iMessageUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
